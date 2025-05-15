@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afb8973a-5793-4299-a5f4-ff0804439700" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/R__create_task_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/R__create_task_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/R__create_task_table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/R__create_task_table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/todo/reactiveDemo/TaskFacadeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/todo/reactiveDemo/TaskFacadeTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2x7Opn6aLX0Y9xDteXpdDNnqe6X" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ReactiveDemoApplication.executor": "Run",
+    "JUnit.java in reactiveDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "reactive-demo",
+    "last_opened_file_path": "/home/anuraag/IdeaProjects/ReactiveJava",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.java in reactiveDemo">
+    <configuration name="ReactiveDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.todo.reactiveDemo.ReactiveDemoApplication" />
+      <module name="reactiveDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.todo.reactiveDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in reactiveDemo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="reactiveDemo" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.java in reactiveDemo" />
+        <item itemvalue="Application.ReactiveDemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afb8973a-5793-4299-a5f4-ff0804439700" name="Changes" comment="" />
+      <created>1747285830517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747285830517</updated>
+    </task>
+    <servers />
+  </component>
+</project>
